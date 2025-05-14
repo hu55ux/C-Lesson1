@@ -1,44 +1,4 @@
-﻿//using System;
-
-//double num1, num2, result = 0;
-//string number1, number2, operation;
-//bool validOperation = true;
-
-//Console.Write("Enter the first number: ");
-//number1 = Console.ReadLine();
-//num1 = Convert.ToInt32(number1);
-//Console.Write("Enter the operation: + - * / % ");
-//operation = Console.ReadLine();
-//Console.Write("Enter the second number: ");
-//number2 = Console.ReadLine();
-//num2 = Convert.ToInt32(number2);
-
-//while (true)
-//{
-//    switch (operation)
-//    {
-//        case "+":
-//            result = num1 + num2; break;
-//        case "-":
-//            result = num1 - num2; break;
-//        case "*":
-//            result = num1 * num2; break;
-//        case "/":
-//            result = num1 / num2; break;
-//        case "%":
-//            result = num1 % num2; break;
-//        default:
-//            Console.WriteLine("Invalid operation!!");
-//            validOperation = false;
-//            break;
-//    }
-//    if (validOperation)
-//    {
-//        Console.WriteLine($"Result: {num1} {operation} {num2} = {result}");
-//    }
-//    break;
-//}
-
+﻿
 using System;
 using System.Threading;
 
